@@ -78,4 +78,9 @@ Traceback (most recent call last):
   File "<stdin>", line 1, in <module>
 ZeroDivisionError: division by zero
 """
-# 11) 
+# 11) IndentationError
+# if(5>3):
+# print("hi")
+""" print("hi")
+    ^
+IndentationError: expected an indented block after 'if' statement on line 82"""
